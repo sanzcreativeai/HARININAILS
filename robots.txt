@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://srinisnailora.in/sitemap.xml
